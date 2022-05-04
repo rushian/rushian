@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Luciano [@rushian]
 - 👀 I’m interested in tests 
-- 🌱 I’m currently learning Java and testing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and testing
 - 📫 How to reach me by linkedin https://www.linkedin.com/in/lucianosantos2011/ 
 
 <!---
