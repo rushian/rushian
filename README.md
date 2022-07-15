@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luciano [@rushian]
 - 👀 I’m interested in tests 
-- 🌱 I’m currently learning Python and testing
+- 🌱 I’m currently learning Python and testing with robot framework, appium and cypress
 - 📫 How to reach me by linkedin https://www.linkedin.com/in/lucianosantos2011/ 
 
 <!---
