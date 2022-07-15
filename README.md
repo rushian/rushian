@@ -17,6 +17,9 @@
   <img align="center" alt="rushian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rushian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<div style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rushian>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
-  (https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rushian)
+  (https://github.com/anuraghazra/github-readme-stats)]
+  
+  </div>
