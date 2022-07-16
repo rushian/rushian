@@ -19,7 +19,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rushian>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rushian)
+[![Luciano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rushian)
   (https://github.com/anuraghazra/github-readme-stats)]
   
   </div>
+![Luciano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rushian)
