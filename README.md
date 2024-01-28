@@ -1,7 +1,7 @@
 # Luciano Santos Gonçalves
 - 👋 Hi, I’m Luciano [@rushian]
 - 👀 I’m interested insoftware test
-- 🌱 I’m currently learning and working with Robot Framework
+- 🌱 I’m currently learning Cypress and working with Robot Framework
 
 <div align="center">
   <a href="https://github.com/rushian">
